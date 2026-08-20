@@ -5,7 +5,7 @@ def muunna_grammoiksi(leiviskat, naulat, luodit):
     grammoja = leiviskat * 20 * 32 * 13.3 + naulat * 32 * 13.3 + luodit * 13.3
     return grammoja
 
-3
+
 def mainloop():
     try:
         leiviskat = float(input("Anna leiviskät.\n"))

@@ -3,7 +3,7 @@ import time
 # y on monta lukua käyttäjä syöttää
 y = 3
 print("Anna" , y , "kokonaislukua")
-0
+
 def tulokset(luvut):
     tulo = 1
     for luku in luvut:
